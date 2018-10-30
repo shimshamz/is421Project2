@@ -86,6 +86,7 @@
 
                 <div class="links">
                     <a href="/contact">Contact</a>
+                    <a href="/about">About</a>
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://github.com/shimshamz/is421Project2">My GitHub</a>
                 </div>

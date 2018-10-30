@@ -36,6 +36,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('contact') }}">{{ __('Contact') }}</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('about') }}">{{ __('About') }}</a>
+                        </li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->
